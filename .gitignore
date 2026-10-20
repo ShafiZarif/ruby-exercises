@@ -1,0 +1,13 @@
+# Ruby LSP generated files
+.ruby-lsp/
+.bundle/
+
+# Environment variables
+.env
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
