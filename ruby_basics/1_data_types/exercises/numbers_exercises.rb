@@ -7,6 +7,7 @@ end
 
 def subtract(a, b)
   # return the result of subtracting b from a
+  a - b
 end
 
 def multiply(a, b)
