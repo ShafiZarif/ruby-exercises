@@ -42,7 +42,7 @@ RSpec.describe "Numbers Exercises" do
   end
 
   describe "float exercise" do
-    xit "returns a float" do
+    it "returns a float" do
       expect(float_division(10, 2)).to eql(5.0)
     end
   end
