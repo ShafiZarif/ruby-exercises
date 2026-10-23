@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def concatenate_example(string)
   # use concatenation to format the result to be "Classic <string>"
   "Classic " + string
